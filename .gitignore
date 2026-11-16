@@ -1,0 +1,6 @@
+.env
+tailwindcss.exe
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+docs/api/
